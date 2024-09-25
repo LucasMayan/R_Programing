@@ -1,0 +1,1 @@
+# Necessário o software RStudio
